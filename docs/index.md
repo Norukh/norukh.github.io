@@ -22,8 +22,8 @@ hero:
 features:
   - title: Urban Sprawl Metrics Calculator
     icon: 📘
-    details: A thesis created by a fellow student and me in 2024 at Eastern Switzerland University of Applied Sciences.
-    link: https://eprints.ost.ch/id/eprint/1268/
+    details: A thesis created by a fellow student and me in 2024 at Eastern Switzerland University of Applied Sciences. The website is currently work in progress.
+    link: https://urbansprawl.ch
     linkText: Go to the eprint
 
   - title: Racing OST Website
@@ -51,12 +51,10 @@ features:
     linkText: See the repository
 
   - title: Pablo
-    icon: 
-      src: https://pablo.nicofehr.dev/static/favicon_io/apple-touch-icon.png
-      width: '40'
+    icon: 🎨
     details: Apply the style of any artist to your image! This is Pablo the AI artist that can apply any artists style to your image.
-    link: https://pablo.nicofehr.dev
-    linkText: Try it out
+    link: https://github.com/Norukh/pablo
+    linkText: See the repository
 
 ---
 
