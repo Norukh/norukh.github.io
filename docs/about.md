@@ -22,7 +22,7 @@ const members = [
   },
 ]
 </script>
-<VPTeamPage>
+<VPTeamPage style="{ }">
   <VPTeamPageTitle>
     <template #title>
         Get in touch with me
