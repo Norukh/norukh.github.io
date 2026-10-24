@@ -14,18 +14,22 @@ const members = [
   {
     avatar: '/nico.png',
     name: 'Nico Fehr',
-    title: 'Software Engineer and CS Student',
+    title: 'Software Engineer · BSc Computer Science, OST',
     links: [
       { icon: 'github', link: 'https://github.com/Norukh' },
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/nico-fehr/' },
-    ]
+    ],
+    desc: 'I’m an engineer who likes problems that don’t have an off-the-shelf answer.'
   },
 ]
 </script>
 <VPTeamPage style="{ }">
   <VPTeamPageTitle>
     <template #title>
-        Get in touch with me
+      Hi I'm Nico
+    </template>
+    <template #lead>
+      Feel free to get in touch.
     </template>
   </VPTeamPageTitle>
   <VPTeamMembers

@@ -4,14 +4,14 @@ layout: home
 
 hero:
   name: Nico Fehr
-  text: Welcome to my page
-  tagline: Check out my projects below!
+  text: Software built to fit.
+  tagline: I design and build robust, purpose-built solutions. Across data platforms, AI, blockchain, and websites, I turn complex requirements into working software.
 
   image: 
     light:
-      src: /banner.png
+      src: /banner.svg
     dark:
-      src: /banner-dark.png
+      src: /banner-dark.svg
     alt: Software made by me
 
   actions:

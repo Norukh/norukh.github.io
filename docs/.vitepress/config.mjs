@@ -16,8 +16,8 @@ export default defineConfig({
     
     ['meta', { property: 'og:title', content: 'Nico Fehr | Portfolio' }],
     ['meta', { property: 'og:description', content: "Nico Fehr's portfolio and projects" }],
-    ['meta', { property: 'og:image', content: '/logo.png' }],
-    ['meta', { property: 'og:url', content: 'https://nicofehr.dev' }],
+    ['meta', { property: 'og:image', content: '/logo.svg' }],
+    ['meta', { property: 'og:url', content: 'https://nicofehr.com' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:site_name', content: 'Nico Fehr | Portfolio' }],
     ['meta', { property: 'og:locale', content: 'en_US' }],
@@ -29,8 +29,8 @@ export default defineConfig({
 
     siteTitle: false,
     logo:  {
-      light: '/logo.png',
-      dark: '/logo-dark.png',
+      light: '/logo.svg',
+      dark: '/logo-dark.svg',
     },
     logoLink: '/',
 
@@ -53,7 +53,7 @@ export default defineConfig({
     },
 
     footer: {
-      message: 'Made with ❤️',
+      message: 'Made with ❤️ in Switzerland',
       copyright: `Copyright © ${new Date().getFullYear()} Nico Fehr`
     }
   }
